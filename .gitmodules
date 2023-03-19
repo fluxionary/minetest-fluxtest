@@ -118,3 +118,6 @@
 [submodule "snippets"]
 	path = snippets
 	url = https://gitlab.com/luk3yx/minetest-snippets.git
+[submodule "hudbars"]
+	path = hudbars
+	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
