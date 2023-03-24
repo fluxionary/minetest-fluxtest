@@ -1,102 +1,102 @@
 [submodule "status_effects"]
 	path = status_effects
-	url = git@github.com:fluxionary/minetest-status_effects.git
+	url = https://github.com/fluxionary/minetest-status_effects.git
 [submodule "persistent_monoids"]
 	path = persistent_monoids
-	url = git@github.com:fluxionary/minetest-persistent_monoids.git
+	url = https://github.com/fluxionary/minetest-persistent_monoids.git
 [submodule "fmod"]
 	path = fmod
-	url = git@github.com:fluxionary/minetest-fmod.git
+	url = https://github.com/fluxionary/minetest-fmod.git
 [submodule "futil"]
 	path = futil
-	url = git@github.com:fluxionary/minetest-futil.git
+	url = https://github.com/fluxionary/minetest-futil.git
 [submodule "player_monoids"]
 	path = player_monoids
 	url = https://github.com/minetest-mods/player_monoids.git
 [submodule "std_effects"]
 	path = std_effects
-	url = git@github.com:fluxionary/minetest-std_effects.git
+	url = https://github.com/fluxionary/minetest-std_effects.git
 [submodule "canonical_name"]
 	path = canonical_name
-	url = git@github.com:fluxionary/minetest-canonical_name.git
+	url = https://github.com/fluxionary/minetest-canonical_name.git
 [submodule "name_monoid"]
 	path = name_monoid
-	url = git@github.com:fluxionary/minetest-name_monoid.git
-[submodule "minetest-balanced_diet"]
+	url = https://github.com/fluxionary/minetest-name_monoid.git
+[submodule "balanced_diet"]
 	path = balanced_diet
-	url = git@github.com:fluxionary/minetest-balanced_diet.git
+	url = https://github.com/fluxionary/minetest-balanced_diet.git
 [submodule "balanced_nutrients"]
 	path = balanced_nutrients
-	url = git@github.com:fluxionary/minetest-balanced_nutrients.git
+	url = https://github.com/fluxionary/minetest-balanced_nutrients.git
 [submodule "balanced_nutrient_overrides"]
 	path = balanced_nutrient_overrides
-	url = git@github.com:fluxionary/minetest-balanced_nutrient_overrides.git
+	url = https://github.com/fluxionary/minetest-balanced_nutrient_overrides.git
 [submodule "limit_physics_monoids"]
 	path = limit_physics_monoids
-	url = git@github.com:fluxionary/minetest-limit_physics_monoids.git
+	url = https://github.com/fluxionary/minetest-limit_physics_monoids.git
 [submodule "item_description_monoid"]
 	path = item_description_monoid
-	url = git@github.com:fluxionary/minetest-item_description_monoid.git
+	url = https://github.com/fluxionary/minetest-item_description_monoid.git
 [submodule "item_monoids"]
 	path = item_monoids
-	url = git@github.com:fluxionary/minetest-item_monoids.git
+	url = https://github.com/fluxionary/minetest-item_monoids.git
 [submodule "hp_monoids"]
 	path = hp_monoids
-	url = git@github.com:fluxionary/minetest-hp_monoids.git
+	url = https://github.com/fluxionary/minetest-hp_monoids.git
 [submodule "toolcap_monoids"]
 	path = toolcap_monoids
-	url = git@github.com:fluxionary/minetest-toolcap_monoids.git
+	url = https://github.com/fluxionary/minetest-toolcap_monoids.git
 [submodule "staminoid"]
 	path = staminoid
-	url = git@github.com:fluxionary/minetest-staminoid.git
+	url = https://github.com/fluxionary/minetest-staminoid.git
 [submodule "m"]
 	path = m
-	url = git@github.com:fluxionary/minetest-m.git
+	url = https://github.com/fluxionary/minetest-m.git
 [submodule "choppy"]
 	path = choppy
-	url = git@github.com:fluxionary/minetest-choppy.git
+	url = https://github.com/fluxionary/minetest-choppy.git
 [submodule "replacer_redo"]
 	path = replacer_redo
-	url = git@github.com:fluxionary/minetest-replacer_redo.git
+	url = https://github.com/fluxionary/minetest-replacer_redo.git
 [submodule "modinfo"]
 	path = modinfo
-	url = git@github.com:fluxionary/minetest-modinfo.git
+	url = https://github.com/fluxionary/minetest-modinfo.git
 [submodule "debuggery"]
 	path = debuggery
-	url = git@github.com:fluxionary/minetest-debuggery.git
+	url = https://github.com/fluxionary/minetest-debuggery.git
 [submodule "node_entity_queue"]
 	path = node_entity_queue
-	url = git@github.com:fluxionary/minetest-node_entity_queue.git
+	url = https://github.com/fluxionary/minetest-node_entity_queue.git
 [submodule "item_magnet"]
 	path = item_magnet
-	url = git@github.com:fluxionary/minetest-item_magnet.git
+	url = https://github.com/fluxionary/minetest-item_magnet.git
 [submodule "inventory_ores"]
 	path = inventory_ores
-	url = git@github.com:fluxionary/minetest-inventory_ores.git
+	url = https://github.com/fluxionary/minetest-inventory_ores.git
 [submodule "craftsystem"]
 	path = craftsystem
-	url = git@github.com:fluxionary/minetest-craftsystem.git
+	url = https://github.com/fluxionary/minetest-craftsystem.git
 [submodule "builtin_overrides"]
 	path = builtin_overrides
-	url = git@github.com:fluxionary/minetest-builtin_overrides.git
+	url = https://github.com/fluxionary/minetest-builtin_overrides.git
 [submodule "bucket_redo"]
 	path = bucket_redo
-	url = git@github.com:fluxionary/minetest-bucket_redo.git
+	url = https://github.com/fluxionary/minetest-bucket_redo.git
 [submodule "boomstick"]
 	path = boomstick
-	url = git@github.com:fluxionary/minetest-boomstick.git
+	url = https://github.com/fluxionary/minetest-boomstick.git
 [submodule "book_runner"]
 	path = book_runner
-	url = git@github.com:fluxionary/minetest-book_runner.git
+	url = https://github.com/fluxionary/minetest-book_runner.git
 [submodule "bones_redo"]
 	path = bones_redo
-	url = git@github.com:fluxionary/minetest-bones_redo.git
+	url = https://github.com/fluxionary/minetest-bones_redo.git
 [submodule "action_queues"]
 	path = action_queues
-	url = git@github.com:fluxionary/minetest-action_queues.git
+	url = https://github.com/fluxionary/minetest-action_queues.git
 [submodule "tnt"]
 	path = tnt
-	url = git@github.com:fluxionary/minetest-tnt.git
+	url = https://github.com/fluxionary/minetest-tnt.git
 [submodule "unified_inventory_plus"]
 	path = unified_inventory_plus
 	url = https://github.com/bousket/unified_inventory_plus.git
@@ -111,16 +111,22 @@
 	url = https://notabug.org/TenPlus1/farming.git
 [submodule "moreblocks"]
 	path = moreblocks
-	url = git@github.com:fluxionary/minetest-moreblocks.git
+	url = https://github.com/fluxionary/minetest-moreblocks.git
 [submodule "cottages"]
 	path = cottages
-	url = git@github.com:fluxionary/minetest-cottages.git
+	url = https://github.com/fluxionary/minetest-cottages.git
 [submodule "snippets"]
 	path = snippets
 	url = https://gitlab.com/luk3yx/minetest-snippets.git
 [submodule "hudbars"]
 	path = hudbars
 	url = https://codeberg.org/Wuzzy/minetest_hudbars.git
-[submodule "Minetest-WorldEdit"]
+[submodule "worldedit"]
 	path = worldedit
 	url = https://github.com/Uberi/Minetest-WorldEdit.git
+[submodule "areas"]
+	path = areas
+	url = https://github.com/minetest-mods/areas.git
+[submodule "player_attributes"]
+	path = player_attributes
+	url = https://github.com/fluxionary/minetest-player_attributes.git
