@@ -130,3 +130,33 @@
 [submodule "player_attributes"]
 	path = player_attributes
 	url = https://github.com/fluxionary/minetest-player_attributes.git
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/minetest-mods/3d_armor.git
+[submodule "cool_trees"]
+	path = cool_trees
+	url = https://github.com/runsy/cool_trees.git
+[submodule "cheese"]
+	path = cheese
+	url = https://github.com/AnnalysaTheMinetester/cheese.git
+[submodule "cucina_vegana"]
+	path = cucina_vegana
+	url = https://github.com/acmgit/cucina_vegana.git
+[submodule "minetest_icecream"]
+	path = minetest_icecream
+	url = https://github.com/Can202/minetest_icecream.git
+[submodule "maptools"]
+	path = maptools
+	url = https://github.com/minetest-mods/maptools.git
+[submodule "mobs_redo"]
+	path = mobs_redo
+	url = https://notabug.org/TenPlus1/mobs_redo.git
+[submodule "mobs_animal"]
+	path = mobs_animal
+	url = https://notabug.org/TenPlus1/mobs_animal.git
+[submodule "sandwiches"]
+	path = sandwiches
+	url = https://notabug.org/Annalysa/sandwiches.git
+[submodule "wine"]
+	path = wine
+	url = https://notabug.org/TenPlus1/wine.git
