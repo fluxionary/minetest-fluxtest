@@ -163,3 +163,9 @@
 [submodule "wielded_light"]
 	path = wielded_light
 	url = https://github.com/minetest-mods/wielded_light.git
+[submodule "mesecons_debug"]
+	path = mesecons_debug
+	url = https://github.com/minetest-monitoring/mesecons_debug.git
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/fluxionary/minetest-just_mesecons.git
