@@ -169,3 +169,6 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/fluxionary/minetest-just_mesecons.git
+[submodule "dreambuilder_hotbar"]
+	path = dreambuilder_hotbar
+	url = https://github.com/mt-mods/dreambuilder_hotbar.git
