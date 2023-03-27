@@ -142,8 +142,8 @@
 [submodule "cucina_vegana"]
 	path = cucina_vegana
 	url = https://github.com/acmgit/cucina_vegana.git
-[submodule "minetest_icecream"]
-	path = minetest_icecream
+[submodule "icecream"]
+	path = icecream
 	url = https://github.com/Can202/minetest_icecream.git
 [submodule "maptools"]
 	path = maptools
@@ -172,3 +172,6 @@
 [submodule "dreambuilder_hotbar"]
 	path = dreambuilder_hotbar
 	url = https://github.com/mt-mods/dreambuilder_hotbar.git
+[submodule "bug_command"]
+	path = bug_command
+	url = https://github.com/fluxionary/minetest-bug_command.git
