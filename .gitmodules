@@ -175,3 +175,6 @@
 [submodule "bug_command"]
 	path = bug_command
 	url = https://github.com/fluxionary/minetest-bug_command.git
+[submodule "broken_tools"]
+	path = broken_tools
+	url = https://github.com/fluxionary/minetest-broken_tools.git
