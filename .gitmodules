@@ -178,3 +178,27 @@
 [submodule "broken_tools"]
 	path = broken_tools
 	url = https://github.com/fluxionary/minetest-broken_tools.git
+[submodule "mobs_mime"]
+	path = mobs_mime
+	url = https://github.com/fluxionary/minetest-mobs_mime.git
+[submodule "ethereal_bosses"]
+	path = ethereal_bosses
+	url = https://codeberg.org/duckgo/ethereal_bosses.git
+[submodule "wisp"]
+	path = wisp
+	url = https://github.com/ElCeejo/wisp.git
+[submodule "grave"]
+	path = grave
+	url = https://github.com/ElCeejo/grave.git
+[submodule "mobkit"]
+	path = mobkit
+	url = https://github.com/TheTermos/mobkit.git
+[submodule "mob_core"]
+	path = mob_core
+	url = https://github.com/mt-mods/mob_core.git
+[submodule "nssm"]
+	path = nssm
+	url = https://notabug.org/TenPlus1/nssm.git
+[submodule "petz"]
+	path = petz
+	url = https://github.com/runsy/petz.git
