@@ -115,6 +115,7 @@
 [submodule "cottages"]
 	path = cottages
 	url = https://github.com/fluxionary/minetest-cottages.git
+	branch = rework
 [submodule "snippets"]
 	path = snippets
 	url = https://gitlab.com/luk3yx/minetest-snippets.git
