@@ -200,3 +200,6 @@
 [submodule "canned_food"]
 	path = canned_food
 	url = https://github.com/h-v-smacker/canned_food.git
+[submodule "astral"]
+	path = astral
+	url = https://gitlab.com/cronvel/mt-astral.git
