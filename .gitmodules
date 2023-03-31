@@ -191,9 +191,6 @@
 [submodule "mob_core"]
 	path = mob_core
 	url = https://github.com/mt-mods/mob_core.git
-[submodule "nssm"]
-	path = nssm
-	url = https://notabug.org/TenPlus1/nssm.git
 [submodule "petz"]
 	path = petz
 	url = https://github.com/runsy/petz.git
