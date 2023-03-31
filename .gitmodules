@@ -197,3 +197,6 @@
 [submodule "petz"]
 	path = petz
 	url = https://github.com/runsy/petz.git
+[submodule "canned_food"]
+	path = canned_food
+	url = https://github.com/h-v-smacker/canned_food.git
