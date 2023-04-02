@@ -200,3 +200,9 @@
 [submodule "astral"]
 	path = astral
 	url = https://gitlab.com/cronvel/mt-astral.git
+[submodule "group_any"]
+	path = group_any
+	url = https://github.com/C-C-Minetest-Server/group_any.git
+[submodule "hbarmor"]
+	path = hbarmor
+	url = https://codeberg.org/Wuzzy/minetest_hbarmor
