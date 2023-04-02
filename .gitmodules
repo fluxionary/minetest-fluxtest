@@ -209,3 +209,6 @@
 [submodule "random_spawn"]
 	path = random_spawn
 	url = https://github.com/fluxionary/minetest-random_spawn.git
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/TenPlus1/bonemeal.git
