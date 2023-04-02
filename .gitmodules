@@ -206,3 +206,6 @@
 [submodule "hbarmor"]
 	path = hbarmor
 	url = https://codeberg.org/Wuzzy/minetest_hbarmor
+[submodule "random_spawn"]
+	path = random_spawn
+	url = https://github.com/fluxionary/minetest-random_spawn.git
