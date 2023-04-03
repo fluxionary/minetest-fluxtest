@@ -212,3 +212,6 @@
 [submodule "bonemeal"]
 	path = bonemeal
 	url = https://notabug.org/TenPlus1/bonemeal.git
+[submodule "herbs"]
+	path = herbs
+	url = https://github.com/acmgit/herbs.git
