@@ -215,3 +215,21 @@
 [submodule "herbs"]
 	path = herbs
 	url = https://github.com/acmgit/herbs.git
+[submodule "australia"]
+	path = australia
+	url = https://github.com/vlapsley/australia.git
+[submodule "aotearoa"]
+	path = aotearoa
+	url = https://codeberg.org/erisMT/aotearoa.git
+[submodule "swaz"]
+	path = swaz
+	url = https://github.com/runsy/swaz.git
+[submodule "rainf"]
+	path = rainf
+	url = https://github.com/runsy/rainf.git
+[submodule "naturalbiomes"]
+	path = naturalbiomes
+	url = https://github.com/Skandarella/naturalbiomes.git
+[submodule "livingjungle"]
+	path = livingjungle
+	url = https://github.com/Skandarella/livingjungle.git
