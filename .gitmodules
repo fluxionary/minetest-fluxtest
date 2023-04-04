@@ -233,3 +233,15 @@
 [submodule "livingjungle"]
 	path = livingjungle
 	url = https://github.com/Skandarella/livingjungle.git
+[submodule "moreores"]
+	path = moreores
+	url = https://github.com/minetest-mods/moreores.git
+[submodule "denseores"]
+	path = denseores
+	url = https://notabug.org/Oswald/denseores.git
+[submodule "lapis"]
+	path = lapis
+	url = https://github.com/minetest-mods/lapis.git
+[submodule "quartz"]
+	path = quartz
+	url = https://github.com/minetest-mods/quartz.git
