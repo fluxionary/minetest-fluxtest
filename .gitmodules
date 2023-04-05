@@ -181,7 +181,7 @@
 	url = https://github.com/fluxionary/minetest-broken_tools.git
 [submodule "mobs_mime"]
 	path = mobs_mime
-	url = https://github.com/fluxionary/minetest-mobs_mime.git
+	url = https://github.com/a-tour-ist/minetest-mobs_mime.git
 [submodule "ethereal_bosses"]
 	path = ethereal_bosses
 	url = https://codeberg.org/duckgo/ethereal_bosses.git
