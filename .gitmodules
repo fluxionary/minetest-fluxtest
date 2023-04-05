@@ -266,3 +266,6 @@
 [submodule "mobs_dwarves"]
 	path = mobs_dwarves
 	url = https://codeberg.org/Hamlet/mobs_dwarves.git
+[submodule "technic_worldgen"]
+	path = technic_worldgen
+	url = git@github.com:fluxionary/minetest-technic_worldgen.git
