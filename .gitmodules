@@ -263,6 +263,3 @@
 [submodule "technic_worldgen"]
 	path = technic_worldgen
 	url = git@github.com:fluxionary/minetest-technic_worldgen.git
-[submodule "protect_surface"]
-	path = protect_surface
-	url = https://github.com/fluxionary/minetest-protect_surface.git
