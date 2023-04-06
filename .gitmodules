@@ -257,15 +257,9 @@
 [submodule "mobs_ghost_redo"]
 	path = mobs_ghost_redo
 	url = https://codeberg.org/Hamlet/mobs_ghost_redo.git
-[submodule "mobs_humans"]
-	path = mobs_humans
-	url = https://codeberg.org/Hamlet/mobs_humans.git
 [submodule "mobs_umbra"]
 	path = mobs_umbra
 	url = https://codeberg.org/Hamlet/mobs_umbra.git
-[submodule "mobs_dwarves"]
-	path = mobs_dwarves
-	url = https://codeberg.org/Hamlet/mobs_dwarves.git
 [submodule "technic_worldgen"]
 	path = technic_worldgen
 	url = git@github.com:fluxionary/minetest-technic_worldgen.git
