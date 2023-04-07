@@ -34,9 +34,9 @@
 [submodule "limit_physics_monoids"]
 	path = limit_physics_monoids
 	url = https://github.com/fluxionary/minetest-limit_physics_monoids.git
-[submodule "item_description_monoid"]
-	path = item_description_monoid
-	url = https://github.com/fluxionary/minetest-item_description_monoid.git
+[submodule "description_monoids"]
+	path = description_monoids
+	url = https://github.com/fluxionary/minetest-description_monoids.git
 [submodule "item_monoids"]
 	path = item_monoids
 	url = https://github.com/fluxionary/minetest-item_monoids.git
@@ -275,3 +275,5 @@
 [submodule "itemframes"]
 	path = itemframes
 	url = https://notabug.org/TenPlus1/itemframes.git
+[submodule "description_monoids"]
+	url = https://github.com/fluxionary/minetest-description_monoids.git
