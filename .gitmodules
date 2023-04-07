@@ -269,3 +269,9 @@
 [submodule "beautiflowers"]
 	path = beautiflowers
 	url = https://github.com/minefaco/beautiflowers.git
+[submodule "itemplate"]
+	path = itemplate
+	url = https://github.com/fluxionary/minetest-itemplate.git
+[submodule "itemframes"]
+	path = itemframes
+	url = https://notabug.org/TenPlus1/itemframes.git
