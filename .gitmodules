@@ -266,3 +266,6 @@
 [submodule "artdeco"]
 	path = artdeco
 	url = https://github.com/TumeniNodes/artdeco.git
+[submodule "beautiflowers"]
+	path = beautiflowers
+	url = https://github.com/minefaco/beautiflowers.git
