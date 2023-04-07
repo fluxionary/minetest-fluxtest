@@ -263,3 +263,6 @@
 [submodule "technic_worldgen"]
 	path = technic_worldgen
 	url = git@github.com:fluxionary/minetest-technic_worldgen.git
+[submodule "artdeco"]
+	path = artdeco
+	url = https://github.com/TumeniNodes/artdeco.git
