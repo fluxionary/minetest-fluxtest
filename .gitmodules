@@ -275,5 +275,3 @@
 [submodule "itemframes"]
 	path = itemframes
 	url = https://notabug.org/TenPlus1/itemframes.git
-[submodule "description_monoids"]
-	url = https://github.com/fluxionary/minetest-description_monoids.git
