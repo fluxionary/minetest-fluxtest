@@ -254,3 +254,7 @@
 [submodule "itemframes"]
 	path = itemframes
 	url = https://notabug.org/TenPlus1/itemframes.git
+[submodule "bbq"]
+	path = bbq
+	url = https://github.com/fluxionary/minetest-BBQ.git
+	branch = yl_stable
