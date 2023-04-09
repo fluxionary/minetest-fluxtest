@@ -258,6 +258,3 @@
 	path = bbq
 	url = https://github.com/fluxionary/minetest-BBQ.git
 	branch = yl_stable
-[submodule "dfcaverns"]
-	path = dfcaverns
-	url = https://github.com/FaceDeer/dfcaverns.git
