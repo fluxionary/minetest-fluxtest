@@ -40,9 +40,6 @@
 [submodule "item_monoids"]
 	path = item_monoids
 	url = https://github.com/fluxionary/minetest-item_monoids.git
-[submodule "hp_monoids"]
-	path = hp_monoids
-	url = https://github.com/fluxionary/minetest-hp_monoids.git
 [submodule "toolcap_monoids"]
 	path = toolcap_monoids
 	url = https://github.com/fluxionary/minetest-toolcap_monoids.git
