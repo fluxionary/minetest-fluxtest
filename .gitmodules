@@ -258,3 +258,6 @@
 [submodule "news"]
 	path = news
 	url = https://github.com/fluxionary/minetest-news.git
+[submodule "biome_cow"]
+	path = biome_cow
+	url = https://github.com/fluxionary/minetest-biome_cow.git
