@@ -255,3 +255,6 @@
 	path = bbq
 	url = https://github.com/fluxionary/minetest-BBQ.git
 	branch = yl_stable
+[submodule "news"]
+	path = news
+	url = https://github.com/fluxionary/minetest-news.git
