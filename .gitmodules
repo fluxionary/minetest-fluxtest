@@ -261,3 +261,6 @@
 [submodule "biome_cow"]
 	path = biome_cow
 	url = https://github.com/fluxionary/minetest-biome_cow.git
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/minetest-mods/ropes.git
