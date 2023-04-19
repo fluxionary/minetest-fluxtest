@@ -270,3 +270,6 @@
 [submodule "ambience"]
 	path = ambience
 	url = https://notabug.org/TenPlus1/ambience.git
+[submodule "planting_interpolation"]
+	path = planting_interpolation
+	url = https://github.com/fluxionary/minetest-planting_interpolation.git
