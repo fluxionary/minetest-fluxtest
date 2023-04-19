@@ -267,6 +267,7 @@
 [submodule "chesttools"]
 	path = chesttools
 	url = https://github.com/fluxionary/minetest-chesttools.git
+	branch = palette_update
 [submodule "ambience"]
 	path = ambience
 	url = https://notabug.org/TenPlus1/ambience.git
