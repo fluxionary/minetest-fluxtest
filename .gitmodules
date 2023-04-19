@@ -264,3 +264,6 @@
 [submodule "ropes"]
 	path = ropes
 	url = https://github.com/minetest-mods/ropes.git
+[submodule "chesttools"]
+	path = chesttools
+	url = https://github.com/fluxionary/minetest-chesttools.git
