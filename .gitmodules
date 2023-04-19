@@ -267,3 +267,6 @@
 [submodule "chesttools"]
 	path = chesttools
 	url = https://github.com/fluxionary/minetest-chesttools.git
+[submodule "ambience"]
+	path = ambience
+	url = https://notabug.org/TenPlus1/ambience.git
