@@ -274,3 +274,6 @@
 [submodule "planting_interpolation"]
 	path = planting_interpolation
 	url = https://github.com/fluxionary/minetest-planting_interpolation.git
+[submodule "darkage"]
+	path = darkage
+	url = https://github.com/adrido/darkage.git
