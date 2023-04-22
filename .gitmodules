@@ -277,3 +277,6 @@
 [submodule "darkage"]
 	path = darkage
 	url = https://github.com/adrido/darkage.git
+[submodule "mobs_balrog"]
+	path = mobs_balrog
+	url = https://github.com/fluxionary/minetest-mobs_balrog.git
