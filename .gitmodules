@@ -280,3 +280,6 @@
 [submodule "mobs_balrog"]
 	path = mobs_balrog
 	url = https://github.com/fluxionary/minetest-mobs_balrog.git
+[submodule "elevator"]
+	path = elevator
+	url = https://github.com/tigris-mt/elevator.git
