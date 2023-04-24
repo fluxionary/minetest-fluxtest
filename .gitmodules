@@ -289,3 +289,6 @@
 [submodule "._REPOS/techpack"]
 	path = ._REPOS/techpack
 	url = https://github.com/joe7575/techpack.git
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://github.com/mt-mods/basic_materials.git
