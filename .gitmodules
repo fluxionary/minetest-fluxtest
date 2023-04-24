@@ -283,3 +283,9 @@
 [submodule "elevator"]
 	path = elevator
 	url = https://github.com/tigris-mt/elevator.git
+[submodule "tubelib2"]
+	path = tubelib2
+	url = https://github.com/joe7575/tubelib2.git
+[submodule "._REPOS/techpack"]
+	path = ._REPOS/techpack
+	url = https://github.com/joe7575/techpack.git
