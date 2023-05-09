@@ -292,3 +292,6 @@
 [submodule "basic_materials"]
 	path = basic_materials
 	url = https://github.com/mt-mods/basic_materials.git
+[submodule "xp_redo"]
+	path = xp_redo
+	url = https://github.com/mt-mods/xp_redo.git
