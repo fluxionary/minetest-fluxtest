@@ -295,3 +295,6 @@
 [submodule "xp_redo"]
 	path = xp_redo
 	url = https://github.com/mt-mods/xp_redo.git
+[submodule "nuggets"]
+	path = nuggets
+	url = https://github.com/jolesh/mt_nuggets
