@@ -295,6 +295,3 @@
 [submodule "nuggets"]
 	path = nuggets
 	url = https://github.com/jolesh/mt_nuggets
-[submodule "mesecons"]
-	path = mesecons
-	url = https://github.com/minetest-mods/mesecons.git
