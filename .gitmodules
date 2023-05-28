@@ -298,3 +298,6 @@
 [submodule "mesecons"]
 	path = mesecons
 	url = https://github.com/minetest-mods/mesecons.git
+[submodule "more_player_monoids"]
+	path = more_player_monoids
+	url = git@github.com:fluxionary/minetest-more_player_monoids.git
