@@ -301,3 +301,6 @@
 [submodule "more_player_monoids"]
 	path = more_player_monoids
 	url = git@github.com:fluxionary/minetest-more_player_monoids.git
+[submodule "on_wield"]
+	path = on_wield
+	url = git@github.com:fluxionary/minetest-on_wield.git
