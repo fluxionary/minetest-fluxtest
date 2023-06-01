@@ -304,3 +304,6 @@
 [submodule "on_wield"]
 	path = on_wield
 	url = git@github.com:fluxionary/minetest-on_wield.git
+[submodule "jonez"]
+	path = jonez
+	url = https://github.com/runsy/jonez.git
