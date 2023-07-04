@@ -322,6 +322,6 @@
 [submodule "regional_weather"]
 	path = regional_weather
 	url = https://github.com/t-affeldt/regional_weather.git
-[submodule "minetest_pedology"]
+[submodule "pedology"]
 	path = pedology
 	url = https://repo.or.cz/minetest_pedology.git
