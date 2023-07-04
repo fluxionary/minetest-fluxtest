@@ -325,3 +325,6 @@
 [submodule "pedology"]
 	path = pedology
 	url = https://repo.or.cz/minetest_pedology.git
+[submodule "naturalbiomes"]
+	path = naturalbiomes
+	url = https://github.com/Skandarella/naturalbiomes.git
