@@ -307,3 +307,21 @@
 [submodule "jonez"]
 	path = jonez
 	url = https://github.com/runsy/jonez.git
+[submodule "dynamic_liquid"]
+	path = dynamic_liquid
+	url = https://github.com/minetest-mods/dynamic_liquid.git
+[submodule "magma_conduits"]
+	path = magma_conduits
+	url = https://github.com/minetest-mods/magma_conduits.git
+[submodule "lighting_monoids"]
+	path = lighting_monoids
+	url = https://github.com/t-affeldt/lighting_monoids.git
+[submodule "climate_api"]
+	path = climate_api
+	url = https://github.com/t-affeldt/climate_api.git
+[submodule "regional_weather"]
+	path = regional_weather
+	url = https://github.com/t-affeldt/regional_weather.git
+[submodule "minetest_pedology"]
+	path = pedology
+	url = https://repo.or.cz/minetest_pedology.git
