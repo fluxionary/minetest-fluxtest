@@ -331,3 +331,6 @@
 [submodule "wilhelminessounds"]
 	path = wilhelminessounds
 	url = https://github.com/Skandarella/wilhelminessounds.git
+[submodule "everness"]
+	path = everness
+	url = https://bitbucket.org/minetest_gamers/everness.git
