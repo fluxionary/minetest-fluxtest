@@ -336,4 +336,4 @@
 	url = https://bitbucket.org/minetest_gamers/everness.git
 [submodule "tool_warnings"]
 	path = tool_warnings
-	url = git@github.com:fluxionary/tool_warnings.git
+	url = https://github.com/fluxionary/minetest-tool_warnings.git
