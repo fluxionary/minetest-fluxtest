@@ -343,3 +343,6 @@
 [submodule "cloaking"]
 	path = cloaking
 	url = https://github.com/luk3yx/minetest-cloaking.git
+[submodule "yl_spawnit"]
+	path = yl_spawnit
+	url = https://gitea.your-land.de/flux/yl_spawnit.git
