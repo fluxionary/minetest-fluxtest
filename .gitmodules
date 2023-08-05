@@ -340,3 +340,6 @@
 [submodule "spawnit"]
 	path = spawnit
 	url = https://github.com/fluxionary/minetest-spawnit.git
+[submodule "cloaking"]
+	path = cloaking
+	url = https://github.com/luk3yx/minetest-cloaking.git
