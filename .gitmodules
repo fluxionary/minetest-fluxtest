@@ -337,3 +337,6 @@
 [submodule "tool_warnings"]
 	path = tool_warnings
 	url = https://github.com/fluxionary/minetest-tool_warnings.git
+[submodule "spawnit"]
+	path = spawnit
+	url = https://github.com/fluxionary/minetest-spawnit.git
