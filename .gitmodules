@@ -346,3 +346,6 @@
 [submodule "yl_spawnit"]
 	path = yl_spawnit
 	url = https://gitea.your-land.de/flux/yl_spawnit.git
+[submodule "balrog_sword"]
+	path = balrog_sword
+	url = https://github.com/fluxionary/minetest-balrog_sword.git
