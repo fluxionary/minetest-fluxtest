@@ -349,3 +349,6 @@
 [submodule "balrog_sword"]
 	path = balrog_sword
 	url = https://github.com/fluxionary/minetest-balrog_sword.git
+[submodule "afk_api"]
+	path = afk_api
+	url = https://github.com/fluxionary/minetest-afk_api.git
