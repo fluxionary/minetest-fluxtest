@@ -352,3 +352,9 @@
 [submodule "afk_api"]
 	path = afk_api
 	url = https://github.com/fluxionary/minetest-afk_api.git
+[submodule "melterns"]
+	path = melterns
+	url = https://git.icynet.eu/evert/melterns.git
+[submodule "fluid_lib"]
+	path = fluid_lib
+	url = https://git.icynet.eu/evert/fluid_lib.git
