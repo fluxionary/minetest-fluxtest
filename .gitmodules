@@ -102,10 +102,10 @@
 	url = https://github.com/minetest-mods/unified_inventory.git
 [submodule "ethereal"]
 	path = ethereal
-	url = https://notabug.org/TenPlus1/ethereal.git
+	url = https://codeberg.org/TenPlus1/ethereal.git
 [submodule "farming"]
 	path = farming
-	url = https://notabug.org/TenPlus1/farming.git
+	url = https://codeberg.org/TenPlus1/farming.git
 [submodule "moreblocks"]
 	path = moreblocks
 	url = https://github.com/fluxionary/minetest-moreblocks.git
@@ -148,16 +148,16 @@
 	url = https://github.com/minetest-mods/maptools.git
 [submodule "mobs_redo"]
 	path = mobs_redo
-	url = https://notabug.org/TenPlus1/mobs_redo.git
+	url = https://codeberg.org/TenPlus1/mobs_redo.git
 [submodule "mobs_animal"]
 	path = mobs_animal
-	url = https://notabug.org/TenPlus1/mobs_animal.git
+	url = https://codeberg.org/TenPlus1/mobs_animal.git
 [submodule "sandwiches"]
 	path = sandwiches
 	url = https://notabug.org/Annalysa/sandwiches.git
 [submodule "wine"]
 	path = wine
-	url = https://notabug.org/TenPlus1/wine.git
+	url = https://codeberg.org/TenPlus1/wine.git
 [submodule "wielded_light"]
 	path = wielded_light
 	url = https://github.com/minetest-mods/wielded_light.git
@@ -202,7 +202,7 @@
 	url = https://github.com/fluxionary/minetest-random_spawn.git
 [submodule "bonemeal"]
 	path = bonemeal
-	url = https://notabug.org/TenPlus1/bonemeal.git
+	url = https://codeberg.org/TenPlus1/bonemeal.git
 [submodule "herbs"]
 	path = herbs
 	url = https://github.com/acmgit/herbs.git
@@ -247,7 +247,7 @@
 	url = https://github.com/fluxionary/minetest-itemplate.git
 [submodule "itemframes"]
 	path = itemframes
-	url = https://notabug.org/TenPlus1/itemframes.git
+	url = https://codeberg.org/TenPlus1/itemframes.git
 [submodule "bbq"]
 	path = bbq
 	url = https://github.com/fluxionary/minetest-BBQ.git
@@ -267,7 +267,7 @@
 	branch = palette_update
 [submodule "ambience"]
 	path = ambience
-	url = https://notabug.org/TenPlus1/ambience.git
+	url = https://codeberg.org/TenPlus1/ambience.git
 [submodule "planting_interpolation"]
 	path = planting_interpolation
 	url = https://github.com/fluxionary/minetest-planting_interpolation.git
